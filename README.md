@@ -55,3 +55,7 @@ ollama pull llama3
 - Add an AI Agent node.
 - Connect the Ollama Chat Model (pointing to http://host.docker.internal:11434).
 - Link your MCP Tools.
+
+
+## Sample output
+![Sample run](~/run_1.png)
