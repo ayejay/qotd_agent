@@ -58,4 +58,4 @@ ollama pull llama3
 
 
 ## Sample output
-![Sample run](~/run_1.png)
+![Sample run](./run_1.png)
