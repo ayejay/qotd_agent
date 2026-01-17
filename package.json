@@ -1,0 +1,16 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "A simple quote generator application",
+  "main": "out/index.js",
+  "scripts": {
+    "start": "tsc && node --inspect=0.0.0.0:9241 out/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.18.2",
+    "express": "^5.1.0",
+    "typescript": "^5.9.3",
+    "zod": "^3.25.76"
+  }
+}
